@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 double h(const double x, const double y, const double z);
+//code
 int main()
 {
 	double a, b;
